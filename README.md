@@ -6,8 +6,6 @@
 <a href="https://github.com/udarakasalife"><img src="./.github/assets/readme-aura-component-2-32e8bf61.svg" width="125" height="46" /></a><a href="https://www.dazeyuratama.engineer"><img src="./.github/assets/readme-aura-component-3-2cde0a66.svg" width="125" height="46" /></a><a href="https://www.instagram.com/devxpxnyctrl_/"><img src="./.github/assets/readme-aura-component-4-4821f321.svg" width="125" height="46" /></a><a href="https://ko-fi.com/dazeyuratama"><img src="./.github/assets/readme-aura-component-5-795f580c.svg" width="125" height="46" /></a>
 </p>
 
-<p align="center"><strong>~/support</strong></p>
-
 <p align="center">
 If my work is useful to you, you can support my projects and future experiments.
 </p>
